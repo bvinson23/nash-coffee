@@ -11,7 +11,7 @@ header {
 
 .shop {
     flex-basis: 16%;
-    padding: 1em;
-    margin: 2px;
-    border: dotted 3px;
+    padding: 1rem;
+    margin: 1rem;
+    border: dotted 2px;
 }
